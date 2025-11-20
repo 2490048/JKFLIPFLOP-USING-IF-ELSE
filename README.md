@@ -41,10 +41,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 5. Testbench: Simulate with combinations of J, K, and c1k to verify JK Flip-Flop functionality.
 
 **PROGRAM**
-NAME : RAHUL RP
-REGISTER NUMBER : 212224240125
 ```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
+Developed by: RAHUL RP
+RegisterNumber: 212224240125
 */
 ```
 ```
